@@ -1,0 +1,40 @@
+
+.custom-alert {
+  button.alert-button:nth-child(1){
+    background-color: #554f4d;
+  }
+  button.alert-button:nth-child(2){
+    background-color: #554f4d;
+  }
+  button.alert-button:nth-child(3){
+    background-color: #554f4d;
+  }
+}
+
+.custom-alert button.alert-button-group {
+  width: 33.33%;
+}
+
+.custom-alert .alert-button-group .button-inner {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.custom-alert .alert-button-group-vertical {
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.deleteAlert {
+  button.alert-button:nth-child(1){
+    background-color: #554f4d;
+  }
+
+  button.alert-button:nth-child(2){
+    background-color: #bf2c31;
+    color: white;
+  }
+}

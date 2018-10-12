@@ -1,0 +1,7 @@
+{
+  "name": "Alexa Silver",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
